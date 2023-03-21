@@ -1,0 +1,72 @@
+{
+  "background_color": "#040b14",
+  "description": "Portifólio pessoal, mostrando softs skills adquiridas ao decorrer da faculdade.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "chipper-boba-00cc2d.netlify",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "chipper-boba-00cc2d.netlify",
+  "start_url": "/index.html",
+  "theme_color": "#040b14",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "assets/img/favicon.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "assets/img/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "assets/img/icon.png",
+      "type": "image/png",
+      "sizes": "40x40"
+    },
+    {
+      "src": "assets/img/icon.png",
+      "type": "image/png",
+      "sizes": "58x58"
+    },
+    {
+      "src": "assets/img/icon.png",
+      "type": "image/png",
+      "sizes": "60x60"
+    },
+     {
+      "src": "assets/img/icon.png",
+      "type": "image/png",
+      "sizes": "92x92"
+    },
+    {
+      "src": "assets/img/icon.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "assets/img/icon.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "assets/img/icon.png",
+      "type": "image/png",
+      "sizes": "196x196"
+    },
+    {
+      "src": "assets/img/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "assets/img/icon.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    }
+  ],
+  "shortcuts": []
+}
